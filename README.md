@@ -1,6 +1,6 @@
 # AR_E-Commerce_Furniture_Android_App
 
- ARCore Google Sceneform Tools (Beta) (Plugin)
+ ARCore Google Sceneform Tools (Beta) 
  
  SQLite
  
