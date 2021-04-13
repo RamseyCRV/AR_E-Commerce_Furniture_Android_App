@@ -8,7 +8,6 @@
  
  Fragments, Navigation Drawer
 
-# Video -> https://youtu.be/zmJ1EuQd3_A
 ![](AR_Android/app/appImages/1.jpg)
 ![](AR_Android/app/appImages/2.jpg)
 ![](AR_Android/app/appImages/3.jpg)
